@@ -12,7 +12,7 @@ Condiciones para que funcione el script
 
 ### ENTRADA
 
-El programa recibe un parámetro de entrada (ordinaria | extraordinaria) para indicar qué actas se quieren procesar
+El programa recibe un parámetro de entrada **(ordinaria | extraordinaria)** para indicar qué actas se quieren procesar
 Si no se indica ningún parámetro, por defecto se tomará el valor "ordinaria".
 
 ### SALIDA
@@ -20,4 +20,6 @@ Si no se indica ningún parámetro, por defecto se tomará el valor "ordinaria".
 La salida del script son un conjunto de archivos CSV que contienen sólo las filas que cominezan por un número
 Como resultado del procesamiento se obtiene un archivo CSV por nivel
 Cada archivo CSV contiene una cabecera con la información de las asignaturas que que aparece en el PDF de las actas
-En el ejemplo se trata un grupo especial (PMAR 3ESOG) que requiere un postprocesamiento espcial al trabajar por ámbitos.
+*En el ejemplo se trata un grupo especial (PMAR 3ESOG) que requiere un postprocesamiento espcial al trabajar por ámbitos.*
+
+[Acceso al repositorio](https://github.com/vicenteprofe/procesaActas.git)
